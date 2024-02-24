@@ -22,8 +22,11 @@ You are tasked with creating a simple To-Do List application in Python. The prog
 2. Add Task
 3. Remove Task
 4. Quit
+
 Enter your choice (1/2/3/4): 2
+
 Enter the task: Buy groceries
+
 
 'Buy groceries' has been added to the To-Do list.
 
@@ -48,8 +51,11 @@ Enter your choice (1/2/3/4): 1
 2. Add Task
 3. Remove Task
 4. Quit
+
 Enter your choice (1/2/3/4): 2
+
 Enter the task: Finish report
+
 
 'Finish report' has been added to the To-Do list.
 
@@ -77,8 +83,11 @@ Enter your choice (1/2/3/4): 1
 2. Add Task
 3. Remove Task
 4. Quit
+
 Enter your choice (1/2/3/4): 3
+
 Enter the task number to remove: 2
+
 
 'Finish report' has been removed from the To-Do list.
 
