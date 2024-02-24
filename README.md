@@ -28,17 +28,22 @@ Enter the task: Buy groceries
 'Buy groceries' has been added to the To-Do list.
 
 ===== To-Do List Application =====
+
 1. Display To-Do List
 2. Add Task
 3. Remove Task
 4. Quit
 Enter your choice (1/2/3/4): 1
 
+
 ===== To-Do List =====
+
 1. Buy groceries
+
 =====================
 
 ===== To-Do List Application =====
+
 1. Display To-Do List
 2. Add Task
 3. Remove Task
@@ -48,19 +53,26 @@ Enter the task: Finish report
 
 'Finish report' has been added to the To-Do list.
 
+
 ===== To-Do List Application =====
+
 1. Display To-Do List
 2. Add Task
 3. Remove Task
 4. Quit
 Enter your choice (1/2/3/4): 1
 
+
 ===== To-Do List =====
+
 1. Buy groceries
 2. Finish report
+
 =====================
 
+
 ===== To-Do List Application =====
+
 1. Display To-Do List
 2. Add Task
 3. Remove Task
@@ -70,18 +82,24 @@ Enter the task number to remove: 2
 
 'Finish report' has been removed from the To-Do list.
 
+
 ===== To-Do List Application =====
+
 1. Display To-Do List
 2. Add Task
 3. Remove Task
 4. Quit
 Enter your choice (1/2/3/4): 1
 
+
 ===== To-Do List =====
+
 1. Buy groceries
+
 =====================
 
 ===== To-Do List Application =====
+
 1. Display To-Do List
 2. Add Task
 3. Remove Task
